@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mi Formulario</string>
+    <string name="nombre">Nombre</string>
+    <string name="mi_formulario">MI FORMULARIO</string>
+    <string name="sumar">SUMAR</string>
+    <string name="dame_elsegundor_valor">Dame elsegundor valor</string>
+    <string name="resultado">Resultado</string>
+    <string name="nombre1">Nombre</string>
+    <string name="dame_el_primer_valor">Dame el primer valor</string>
+</resources>
